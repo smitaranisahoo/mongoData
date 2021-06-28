@@ -1,0 +1,121 @@
+[
+    {
+        "movei_id": 1,
+        "name":"SPIDER MAN -HOMECOMING",
+        "language":["english","hindi"],
+        "Genre": ["Sci-Fi","action"],
+        "review": [{
+            "username":"smita",
+            "review_type": "excellent"}
+        ],
+        "actor":[{
+            "name" : "Tom Holland", 
+            "role": "hero",
+            "skill": ["singing"],
+            "name_in_movei":["spiderman"]
+        }],
+        "media":[{
+            "type":"image",
+            "url": "https://www.imdb.com/title/tt2250912/mediaindex?ref_=tt_sa_1"
+        },
+        {
+            "type": "video",
+            "url": "https://www.imdb.com/title/tt2250912/videogallery/?ref_=tt_ov_vi_sm"
+        }]
+    },
+    {
+        "movei_id": 2,
+        "name":"The Tomorrow War",
+        "language":["english","hindi"],
+        "Genre": ["Action", "Drama"],
+        "review": [{
+            "username":"snigdha",
+            "review_type": "very good"}],
+        "actor":[{
+            "name" : "Chris Pratt", 
+            "role": "villian",
+            "skill": ["dancing","singing"],
+            "name_in_movei":["john"]
+        }],
+        "media":[
+            {
+                "type":"image",
+                "url": "https://www.imdb.com/title/tt2250912/mediaindex?ref_=tt_sa_1"
+            },
+            {
+            "type": "video",
+            "url": ["https://www.imdb.com/title/tt9777666/videogallery/?ref_=tt_ov_vi_sm"]
+        }]
+    },
+    {
+        "movei_id": 3,
+        "name":"Infinite",
+        "language":["english","hindi"],
+        "Genre": ["Action"],
+        "review": [{
+            "username":"sia",
+            "review_type": "ok"}],
+        "actor":[{
+            "name" : "Mark", 
+            "role": "heroine",
+            "skill": ["acting","singing"],
+            "name_in_movei":["riya"]
+        }],
+        "media":[{
+            "type": "image",
+            "url": "https://www.imdb.com/title/tt6654210/mediaindex?ref_=tt_sa_1"},
+            {
+                "type": "video",
+            "url": "https://www.imdb.com/video/vi758497305?ref_=ttvi_vi_imdb_1"
+        }]
+    },
+    {
+        "movei_id": 4,
+        "name":"F9: The Fast Saga",
+        "language":["english","hindi"],
+        "Genre": ["Horror","action"],
+        "review": [{
+            "username":"sia",
+            "review_type": "excellent"}],
+        "actor":[{
+            "name" : "Vin Diesel", 
+            "role": "hero",
+            "skill": ["acting","singing"],
+            "name_in_movei":["vishal"]
+        }],
+        "media":[{
+            "type": "image",
+            "url": "https://www.imdb.com/title/tt5433138/mediaindex?ref_=tt_sa_1"},
+            {
+            "type": "video",
+            "url": "https://www.imdb.com/title/tt5433138/videogallery/?ref_=tt_ov_vi_sm"
+        }]
+
+        
+    },
+    {
+        "movei_id": 5,
+        "name":"Army of the Dead",
+        "Genre": ["Drama", "Sci-Fi"],
+        "review": [{
+            "username":"smita",
+            "review_type": "good"}],
+        "actor":[{
+            "name" : "Dave Bautista", 
+            "role": "hero",
+            "skill": ["singing"],
+            "name_in_movei":["ram"]
+        }],
+        "media":[{
+            "type": "image",
+            "url": "https://www.imdb.com/title/tt0993840/mediaindex?ref_=tt_sa_1"},
+            {
+            "type": "video",
+            "url": "https://www.imdb.com/title/tt0993840/videogallery/?ref_=tt_ov_vi_sm"
+        }]
+    }
+    
+]
+
+
+
